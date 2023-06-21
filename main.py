@@ -10,7 +10,7 @@ app = Flask(__name__)
 # Opening up the webpage by default will trigger this function and cause it to run
 def index():
     # Creating a local variable with a name
-    name = "Vihaan Mehta"
+    name = "AceOfSpades"
 
     # Dictionary of my favorite colors
     colors = ["Red", "Blue", "Green"]
